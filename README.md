@@ -6,7 +6,7 @@ Popular functions include..
 > string editors (remove item from string with index).   
 
 Yes, the name was inspired by jQuery.   
-`import (comingsoon) as pq`   
+## NOTE, this is not a tradtional module. You will have to copy the src code from `jquery.py` and put it in your own environment. I am working to put this project on PyPi so you can easily use pip install!    
 Documentation coming soon.   
 
 ### Copyright 2022 mushytoast
