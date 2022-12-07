@@ -1,2 +1,7 @@
-# pyquery
-A python library that houses many useful functions for easier coding, faster coding, and cleaner code.
+# pyQuery
+## A function library for easier code writing, cleaner code, and convienence. 
+**Still in development**
+
+`import (comingsoon) as pq`
+
+### Copyright 2022 mushytoast
