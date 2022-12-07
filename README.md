@@ -1,6 +1,6 @@
 # pyQuery
 ## A function library for easier code writing, cleaner code, and convienence. 
-**Still in development**
+**Still in development**    
 Popular functions include..    
 > discord-like emoji support :happy:   
 > string editors (remove item from string with index).   
