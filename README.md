@@ -1,11 +1,11 @@
 # pyQuery
 ## A function library for easier code writing, cleaner code, and convienence. 
 **Still in development**
-Popular functions include.. <br>
-> discord-like emoji support :happy: 
-> string editors (remove item from string with index). <br>
-Yes, the name was inspired by jQuery. <br>
-`import (comingsoon) as pq` <br>
-Documentation coming soon. <br>
+Popular functions include..  return
+> discord-like emoji support :happy:  return 
+> string editors (remove item from string with index).  return
+Yes, the name was inspired by jQuery.  return
+`import (comingsoon) as pq`  return
+Documentation coming soon.  return
 
 ### Copyright 2022 mushytoast
