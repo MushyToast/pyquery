@@ -1,8 +1,8 @@
 # pyQuery
 ## A function library for easier code writing, cleaner code, and convienence. 
 **Still in development**    
-Popular functions include..    
-> discord-like emoji support :happy:   
+**Don't use yet, still in development**
+Popular functions include..     
 > string editors (remove item from string with index).   
 
 Yes, the name was inspired by jQuery.   
